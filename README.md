@@ -1,2 +1,2 @@
 # Problem-Solving-C
-C Code 
+Problem solving repo. for the purpose to collect problems solution with C programming language 
